@@ -1,4 +1,4 @@
-👋 Hi there, I’m Abhishek, an aspiring and decicated Data Analyst with Master's degree in Business Information Systems With a strong foundation in data analytics, I have worked with various tools, including:
+Hi there, I’m Abhishek, an aspiring and decicated Data Analyst with Master's degree in Business Information Systems With a strong foundation in data analytics, I have worked with various tools, including:
 
 📌 SQL (Querying and managing databases)
 📌 Python (Seaborn, Matplotlib, Pandas, NumPy)
